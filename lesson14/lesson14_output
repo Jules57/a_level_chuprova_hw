@@ -1,0 +1,45 @@
+Employee: Jason. 
+Employee daily earnings: 200 USD.
+Employee object: Jason, the Employee.
+Employee says: I come to office.
+
+Employee: David. 
+Employee daily earnings: 175 USD.
+Employee object: David, the Employee.
+
+Who earns more? Jason.
+Who earns less? David.
+
+Recruiter: Janette. 
+Recruiter daily earnings: 50 USD.
+Recruiter object: Janette, the Recruiter.
+Recruiter says: I come to office and start hiring.
+Janette's salary for 4 days is 200 USD.
+
+Recruiter: Lindsey.
+Recruiter daily earnings: 45 USD.
+Recruiter object: Lindsey, the Recruiter.
+Lindsey's salary for 14 days is 630 USD.
+
+Who earns more? Janette.
+Who earns less? Lindsey.
+
+Developer name: Thomas.
+Developer daily earnings: 400 USD. 
+Developer tech stack: Python, SQL, Docker, git, HTML/CSS, Django.
+Developer says: I come to office and start coding.
+Thomas's salary for this month is 4800 USD.
+
+Developer name: William.
+Developer daily earnings: 500 USD. 
+Developer tech stack: JavaScript, Angular, SQL, HTML/CSS.
+William's salary for this month is 6000 USD.
+
+Who is more experienced? Thomas.
+Who needs to improve his professional skills? William.
+Do our developers have the same competence? No.
+
+What if we could combine Thomas and William? 
+Thomas William, the Developer.
+
+Does Janette earn more than William? No.
