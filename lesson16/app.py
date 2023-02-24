@@ -1,6 +1,5 @@
 import csv
 import datetime
-import faulthandler
 import traceback
 
 from base_class_employee import Employee
