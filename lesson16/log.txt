@@ -1,0 +1,28 @@
+2023-02-24 18:18:39 | Traceback (most recent call last):
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/app.py", line 97, in <module>
+    main()
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/app.py", line 75, in main
+    william = Developer(
+              ^^^^^^^^^^
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/derived_class_developer.py", line 6, in __init__
+    super().__init__(name, daily_earnings, email)
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/base_class_employee.py", line 12, in __init__
+    self.validate_email()
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/base_class_employee.py", line 62, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+
+2023-02-24 18:18:47 | Traceback (most recent call last):
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/app.py", line 97, in <module>
+    main()
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/app.py", line 75, in main
+    william = Developer(
+              ^^^^^^^^^^
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/derived_class_developer.py", line 6, in __init__
+    super().__init__(name, daily_earnings, email)
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/base_class_employee.py", line 12, in __init__
+    self.validate_email()
+  File "/Users/prettybastard/Projects/a_level/lesson16_OOP/base_class_employee.py", line 62, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+
